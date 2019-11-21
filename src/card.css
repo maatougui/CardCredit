@@ -1,0 +1,60 @@
+
+.gg{
+text-align:center;
+border: 1px solid black ;
+border-radius: 25px;
+width: 60%;
+height: 500px;
+background-color: rgb(13, 13, 196);
+display:flex; 
+justify-content: flex-end;
+margin-left: 10%;
+margin-top: 10%;
+}
+.style-the-Name{
+    margin-top: 60px;
+    margin-right: -250px;
+}
+.style-the-image{
+    width: 16%;
+ margin-left: -80%;
+}
+.width-the-card{
+    width: 100%;
+}
+.numberTheCard{
+    font-size: 40px;
+    margin-left: 10px;
+    margin-top: 6px;
+    margin-left: -348px;
+}
+p{
+    font-size: 40px;
+    margin-left: 10px;
+    margin-top: 6px;
+    margin-left: -20px;
+
+   
+}
+.align-element{
+    margin-left: 95px;
+    /* margin-right: 10px; */
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.cartholder{
+margin-left: -164px;
+
+}
+.mestercard
+{ 
+    width: 172px;
+    margin-left: 513px;
+    margin-bottom: -198px;
+    height: 203px;
+    margin-top: -10px;
+    font-size: -webkit-xxx-large;
+
+}
+
